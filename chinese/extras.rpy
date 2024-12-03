@@ -6844,219 +6844,219 @@ translate chinese extra_scene_23_c8cb0170:
 translate chinese extra_scene_23_d8a76c8a:
 
     # "{i}The look of surprise on her face really completes the experience, as a stream of piss splashes on her face."
-    ""
+    "{i}她脸上惊讶的表情真正完成了这次体验，一股尿溅到了她的脸上。"
 
 # game/extras.rpy:2230
 translate chinese extra_scene_23_86416a32:
 
     # "{i}Coughing, Adriana tries to spit out some of the urine that has entered her mouth."
-    ""
+    "{i}阿德里安娜咳嗽着，试图吐出一些进入嘴里的尿液。"
 
 # game/extras.rpy:2231
 translate chinese extra_scene_23_91f41e8a:
 
     # ad "Y... You naughty boy!"
-    ad ""
+    ad "你……你这个顽皮的孩子！"
 
 # game/extras.rpy:2233
 translate chinese extra_scene_23_70501026:
 
     # "{i}After Adriana has adjusted somewhat, she eagerly drinks from the piss that is still flowing from your cock."
-    ""
+    "{i}阿德里安娜稍作调整后，急切地喝着你鸡巴上仍在流淌着的尿液。"
 
 # game/extras.rpy:2234
 translate chinese extra_scene_23_03080942:
 
     # "{i}You clean her face of any muckus, replacing it with a yellow sheen."
-    ""
+    "{i}你清除她脸上的粘液，取而代之的是黄色光泽。"
 
 # game/extras.rpy:2235
 translate chinese extra_scene_23_86b2f906:
 
     # ad "More! Let it all out, [p_name]!"
-    ad ""
+    ad "给我更多！用尽全力，[p_name]！"
 
 # game/extras.rpy:2237
 translate chinese extra_scene_23_86046f79:
 
     # "{i}Adriana's hair is a wet tangle, as the flow of piss drips down her face onto the ground."
-    ""
+    "{i}阿德里安娜的头发湿漉漉地打结，尿液顺着她的脸滴到地上。"
 
 # game/extras.rpy:2238
 translate chinese extra_scene_23_5226bc88:
 
     # ad "Mmmmm!"
-    ad ""
+    ad "嗯嗯！"
 
 # game/extras.rpy:2239
 translate chinese extra_scene_23_96212af7:
 
     # "{i}After you're finished, Adriana eagerly laps any of your liquid that hasn't dripped onto the ground."
-    ""
+    "{i}当你完事后，阿德里安娜急切地舔掉你没有滴到地上的液体。"
 
 # game/extras.rpy:2240
 translate chinese extra_scene_23_429a11d1:
 
     # "{i}Your cock is hardening again at the sight of the submissive girl and her pussy beckons."
-    ""
+    "{i}一看到顺从的女孩和她的小穴，你的鸡巴又变硬了。"
 
 # game/extras.rpy:2242
 translate chinese extra_scene_23_89eec665:
 
     # "{i}Despite the amazing feeling fucking her throat gives you, her pussy beckons."
-    ""
+    "{i}尽管操她的喉咙会给你带来奇妙的感觉，但她的小穴却在向你招手。"
 
 # game/extras.rpy:2245
 translate chinese extra_scene_23_4728e565:
 
     # "{i}When you enter her without warning, Adriana just digs her nails into your back and whispers for you to go hard."
-    ""
+    "{i}当你在没有任何警告的情况下进入她时，阿德里安娜只是用指甲深深地扎进你的背，低声地叫你用力。"
 
 # game/extras.rpy:2246
 translate chinese extra_scene_23_6b5a8e64:
 
     # ad "Fuck me, [p_name]!"
-    ad ""
+    ad "操我，[p_name]！"
 
 # game/extras.rpy:2248
 translate chinese extra_scene_23_d8d3cdf3:
 
     # "{i}Adriana knows exactly how to angle her body for you to receive maximum pleasure from her pussy."
-    ""
+    "{i}阿德里安娜确切地知道如何调整她的身体角度，以便你从她的小穴获得最大的快感。"
 
 # game/extras.rpy:2249
 translate chinese extra_scene_23_1bbf22b4:
 
     # ad "That's it, fuck me hard!"
-    ad ""
+    ad "就是这样，用力操我吧！"
 
 # game/extras.rpy:2250
 translate chinese extra_scene_23_49622f84:
 
     # ad "Aaah! Aaah!"
-    ad ""
+    ad "啊啊！啊啊！"
 
 # game/extras.rpy:2253
 translate chinese extra_scene_23_230e38f3:
 
     # "{i}Smelling of piss and pussy juice, you grab her tits and fuck her with all you've got."
-    ""
+    "{i}闻着尿液和小穴汁液的味道，你抓住她的乳房，用尽全力操她。"
 
 # game/extras.rpy:2255
 translate chinese extra_scene_23_cfe399dc:
 
     # "{i}Grabbing her tits, you fuck her wet gash with all you've got."
-    ""
+    "{i}抓住她的乳房，用尽全力操她湿漉漉的伤口。"
 
 # game/extras.rpy:2256
 translate chinese extra_scene_23_3fd855e1:
 
     # ad "Oh yes!"
-    ad ""
+    ad "哦是的！"
 
 # game/extras.rpy:2257
 translate chinese extra_scene_23_56ad9110:
 
     # ad "Harder! Harder!"
-    ad ""
+    ad "用力！用力！"
 
 # game/extras.rpy:2258
 translate chinese extra_scene_23_b6c7acdf:
 
     # ad "Fffff..."
-    ad ""
+    ad "噗噗……"
 
 # game/extras.rpy:2260
 translate chinese extra_scene_23_c226e29d:
 
     # "{i}Her speech becoming ever more incoherent, Adriana urges you on, her raking hands making red marks on your back."
-    ""
+    "{i}阿德里安娜的言语变得越来越语无伦次，她催促着你，她的双手在你的背上留下了红色的痕迹。"
 
 # game/extras.rpy:2261
 translate chinese extra_scene_23_e0ced370:
 
     # "{i}The violence of your attack on her pussy is something you can't keep up for long however and you feel your orgasm mounting."
-    ""
+    "{i}你对她小穴的暴力攻击是你无法维持太久的，但你会感觉到你的高潮在不断增加。"
 
 # game/extras.rpy:2267
 translate chinese extra_scene_23_0ec8d250:
 
     # "{i}At the very end of one of your powerful thrusts, cum shoots deep inside her."
-    ""
+    "{i}在你强力抽插的最后，精液射入她体内的深处。"
 
 # game/extras.rpy:2268
 translate chinese extra_scene_23_1f371738:
 
     # "{i}Adriana proudly presents her cunt to you as your seed pulses out of her."
-    ""
+    "{i}当你的精液从她体内流出时，阿德里安娜自豪地向你展示她的小穴。"
 
 # game/extras.rpy:2278
 translate chinese extra_scene_23_3a7fe0f9:
 
     # "{i}At the very end of one of your powerful thrusts, you quickly pull out of Adriana and grab her head."
-    ""
+    "{i}在你一次强有力的抽插结束时，你迅速从阿德里安娜身上抽出并抓住了她的头。"
 
 # game/extras.rpy:2280
 translate chinese extra_scene_23_71ccf266:
 
     # "{i}A wealth of cum sprays on her smiling face, mixing with the droplets of piss still present from her earlier treatment."
-    ""
+    "{i}大量的精液喷洒在她微笑的脸上，与她之前治疗中残留的小便混合在一起。"
 
 # game/extras.rpy:2282
 translate chinese extra_scene_23_a3b39602:
 
     # "{i}A wealth of cum sprays on her smiling face, mixing with the strings of saliva still present from her throat fucking."
-    ""
+    "{i}大量的精液喷洒在她微笑的脸上，与她喉咙里残留的口水混合在一起。"
 
 # game/extras.rpy:2290
 translate chinese extra_scene_23_56b6c38e:
 
     # ad "All relaxed now?"
-    ad ""
+    ad "现在都放松了吗？"
 
 # game/extras.rpy:2291
 translate chinese extra_scene_23_c2d81338:
 
     # ad "I know I am."
-    ad ""
+    ad "我知道我是。"
 
 # game/extras.rpy:2292
 translate chinese extra_scene_23_fbf6bf0b:
 
     # p "Yes, this was just what I needed."
-    p ""
+    p "是的，这正是我所需要的。"
 
 translate chinese strings:
 
     # game/extras.rpy:54
     old "Not yet"
-    new ""
+    new "还没有"
 
     # game/extras.rpy:96
     old "Cum inside"
-    new ""
+    new "射在里面"
 
     # game/extras.rpy:96
     old "Pull out"
-    new ""
+    new "拔出来"
 
     # game/extras.rpy:303
     old "Cum in her ass"
-    new ""
+    new "射在她的屁股"
 
     # game/extras.rpy:355
     old "Show content"
-    new ""
+    new "展示内容"
 
     # game/extras.rpy:355
     old "Disable content"
-    new ""
+    new "禁用内容"
 
     # game/extras.rpy:979
     old "Cover her back"
-    new ""
+    new "盖住她的背"
 
     # game/extras.rpy:2078
     old "Creampie Sabine"
-    new ""
+    new "中出萨宾"
 
