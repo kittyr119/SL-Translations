@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/options.rpy:15
     old "SL"
-    new ""
+    new "姐妹欲望"
 
